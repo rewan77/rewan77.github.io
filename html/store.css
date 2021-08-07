@@ -1,0 +1,160 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* navbar */
+.navbar-brand {
+  font-weight: bold;
+  color: yellow;
+}
+
+.nav-link {
+  color: yellow !important;
+}
+
+.nav-item a:hover {
+  background-color: rgb(19, 25, 29);
+  border-radius: 10px;
+}
+
+.bi {
+  margin-left: 15px;
+}
+
+.btn {
+  color: yellow;
+}
+
+/* n navbar */
+
+/* carosel */
+.hero img {
+  height: 580px;
+  width: 100%;
+}
+
+.hero a:hover {
+  background: rgb(17, 17, 12);
+}
+
+.hero a {
+  color: white;
+}
+
+.text {
+  margin-top: -50px;
+}
+
+/* n carosel */
+
+/* aplikasi */
+
+.card {
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+  background-color: rgb(63, 69, 70);
+  border-radius: 15px;
+}
+
+.card a {
+  color: black;
+  text-align: center;
+}
+
+.card a:hover {
+  background: rgb(28, 14, 155);
+}
+
+/* n aplikasi */
+
+/* hotitem */
+
+.hot {
+  text-align: center;
+  margin-left: 5px;
+}
+
+.cardhot {
+  margin: 10px 10px;
+}
+
+.cardhot:hover {
+  box-shadow: 1px 1px 3px black;
+  transform: scale(1.05);
+}
+
+.hot-item {
+  display: inline-block;
+  font-size: 22px;
+  margin: 0 10px;
+  padding-bottom: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.active {
+  color: black;
+}
+/* n hotitem */
+
+/* paylatter */
+.shop {
+  text-align: center;
+  background-color: rgb(16, 16, 48);
+  color: white;
+  padding: 20px 0;
+  margin-bottom: 30px;
+}
+
+.shop h4 {
+  font-weight: bold;
+}
+
+.shop h5 {
+  font-weight: lighter;
+}
+
+.shop a {
+  color: white;
+}
+
+/* n paylatter */
+
+/* conect */
+.conect {
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-bottom: 40px;
+}
+
+/* n conect */
+
+.cont {
+  color: rgb(185, 110, 12);
+  background-color: black;
+  padding-top: 20px;
+}
+
+.cont h5 {
+  text-align: center;
+}
+
+.list-group {
+  background-color: black;
+  padding-left: 10px;
+}
+
+.online p {
+  font-weight: bold;
+}
+
+.online span {
+  font-size: 12px;
+}
+
+/* footer */
+.footer {
+  text-align: center;
+  padding: 5px 0;
+}

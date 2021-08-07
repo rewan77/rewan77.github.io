@@ -1,0 +1,229 @@
+/* nav */
+
+.navbar-brand {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 35px;
+  color: aqua !important;
+  border-bottom: 2px solid black;
+}
+
+.navbar-nav a:hover {
+  background-color: rgb(27, 27, 25);
+  border-radius: 5px;
+}
+
+.nav-link {
+  color: aqua !important;
+  border-bottom: 2px solid black;
+}
+
+.btn {
+  border-radius: 10px;
+  font-size: 15px;
+  width: 75px;
+  height: 30px;
+  margin-top: 5px;
+  padding: 0 3px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* n nav */
+
+.jumbotron {
+  text-align: center;
+  margin-top: -100px;
+  height: 720px;
+  margin-bottom: 50px;
+}
+
+.jumbotron video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* n jumbo */
+
+.txt {
+  text-align: center;
+  color: rgb(216, 82, 4);
+  margin-top: -390px;
+  text-shadow: 2px 2px 5px white;
+  font-family: anton;
+  border-bottom: 1px solid white;
+  margin-bottom: 20px;
+}
+
+.txt,
+.lead {
+  font-size: 70px;
+  z-index: 3;
+}
+
+.font p {
+  text-align: center;
+  color: rgb(31, 236, 99);
+  text-shadow: 1px 1px 5px rgb(42, 14, 202);
+  margin-top: -35px;
+  font-family: Bebas Neue;
+}
+
+/* n font */
+
+.ca {
+  margin-top: 150px;
+  background: linear-gradient(rgb(25, 7, 109), rgb(50, 8, 100), rgb(119, 7, 7), rgb(196, 14, 7));
+}
+
+/* video */
+
+.aktif {
+  text-align: center;
+  font-size: 50px;
+  margin-bottom: 40px;
+  text-shadow: 1px 1px 5px aqua;
+  color: orange;
+  font-family: Bebas Neue;
+  padding-top: 20px;
+}
+
+.card-img-top {
+  width: 150px;
+  height: 150px;
+  margin: 5px auto;
+  border-bottom: 1px solid black;
+}
+
+/* n aktif */
+
+#parallax {
+  background-image: url(../img/506.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+}
+
+.about {
+  text-align: center;
+  color: aqua;
+  margin-top: 30px;
+  margin-bottom: 35px;
+  font-size: 50px;
+}
+
+.isi {
+  color: rgb(21, 24, 22);
+  margin-left: 65px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.isi span {
+  font-size: 50px;
+  border-bottom: 1px solid aqua;
+  color: rgb(162, 212, 23);
+}
+
+.history {
+  color: rgb(9, 158, 59);
+  margin-left: 65px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  opacity: 0;
+}
+
+.history span {
+  font-size: 50px;
+  border-bottom: 1px solid aqua;
+  color: rgb(162, 212, 23);
+  opacity: 0;
+}
+
+.icon {
+  margin-left: 65px;
+  margin-bottom: 30px;
+  box-shadow: 1px 1px 5px 5px aqua;
+  opacity: 0;
+}
+
+/* n about */
+
+#gal .row > * {
+  padding: 0;
+}
+
+#gal {
+  background: linear-gradient(rgb(196, 14, 7), rgb(165, 82, 15), rgb(153, 126, 5));
+  margin-top: -20px;
+}
+
+.gallery-img {
+  width: 100%;
+}
+
+.galer {
+  text-align: center;
+  color: rgb(85, 26, 221);
+  padding-top: 20px;
+  margin-bottom: 30px;
+  font-size: 50px;
+  text-shadow: 2px 2px 5px rgb(255, 238, 0);
+}
+
+.jpg {
+  margin-right: 65px;
+  padding-bottom: 30px;
+}
+
+/* n gallery */
+
+#Business {
+  background: linear-gradient(rgb(153, 126, 5), rgb(133, 199, 12), rgb(31, 136, 10), rgb(15, 68, 5));
+}
+
+.Business {
+  text-align: center;
+  font-weight: bold;
+  color: rgb(0, 0, 0);
+  padding: 20px;
+  text-shadow: 1px 1px 3px aqua;
+}
+
+.text {
+  font-size: 20px;
+}
+
+.text a {
+  width: 150px;
+  padding: 0 auto;
+}
+
+.senjata {
+  height: 210px;
+}
+
+.produk {
+  margin-bottom: 30px;
+}
+
+/* N BISNIS */
+
+#part {
+  background-color: black;
+}
+
+.crime {
+  color: aliceblue;
+}
+
+/* N PART */
+
+.copy {
+  text-align: center;
+  color: rgb(41, 48, 48);
+  margin-top: 10px;
+}
